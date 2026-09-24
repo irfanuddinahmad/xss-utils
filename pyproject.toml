@@ -7,7 +7,7 @@ name = "xss-utils"
 dynamic = ["version"]
 description = "Utility functions to prevent possible XSS attack on django/mako templates"
 readme = "README.rst"
-license = "AGPL-3.0"
+license = "AGPL-3.0-or-later"
 license-files = ["LICENSE"]
 authors = [
     {name = "Open edX Project", email = "oscm@openedx.org"},
